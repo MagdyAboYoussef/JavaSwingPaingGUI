@@ -1,5 +1,5 @@
 # Simple Pain GUI in java swing
-This is a simple PaintGUI done in swing  it has the following features:
+This is a simple PaintGUI done in java swing as a learning process it has the following features:
 ![image](https://github.com/MagdyAboYoussef/JavaSwingPaingGUI/assets/107952758/3a502465-1135-472a-bada-ddf3bc82a190)
 
 
